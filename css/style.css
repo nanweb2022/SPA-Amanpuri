@@ -49,6 +49,17 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.btn-whapp img{
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  bottom: 30px;
+  position: fixed;
+  left: 30px;
+}  
+
+
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
